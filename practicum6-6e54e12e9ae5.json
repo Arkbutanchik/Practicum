@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "practicum6",
+  "private_key_id": "6e54e12e9ae5c9ddce480a861e281c31dc8768fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMY6Foa0bjW/qI\nVNgmP7EfOyXNw2xzFQrcDUqe6vC7ZHD6ebYIZTleA5Z6Weo5Gd3qrar/YQgMR5C4\nh5nqGYg7d2YgNBZ/3XTF4nH1zYz1e8JSUp/mXnJgX5TbIxP94vpmt07Ifce5OkZ8\nekTtAJud1GiXrIK/hXpG8JWSU7p/bfCT1GFnDwScebjBO/U8/INLJ9Ai7+mLOaF5\nehUXVv2T2em+G6uZ7U4ea0ISEVpdWyKeXEm0NmwThmZNJ3gf3AyKCa9wnKGGELY4\nfW55rLaujA1CVIboa05220AUMjkPxMbA5chm015zy9vU30+nLNP+wfKkS8Xg1OVA\nddFpVfTdAgMBAAECggEAIVSV+8XoF3zmYYPEg+hFusbAfB+ZozgT6fKuRTV28Hg0\nBwSrb2RiczcOkQFHYEHG81WYLxvkXhbwPhy5jXgrGSzNa1mohE2EP3OVYJ+WlGm2\n3184qC6lZEXyARJlWN/CNIHsHRHgl2TYyG/VUaOUZ6vof+N9UZIzcIzHN3I5VZI4\n1CBvHAtF+7uKsSr8ZyniMRh04ncYQHUc5nP+05DB3vod+HdZbMB5r6YNPqTgQkLW\n+QW7t0QJKHgaEx121aXdim1E2y57oB/lZ42AEhEIA9GtG+WWm6pYOsgikh12d/6F\nPOB6MJi8/vWysZyzn63TotYpPXdsnTMz9TAniqpWGQKBgQDq+fQOUY03b8iexb8E\nDxxRakKvKX6vdQzKVu9H97AJbiRf7R4i2gY7FMVn3N+PAWMQpNG9SeR9MZLfqWrx\nn9+Z5l7aVs4Y+klHu7/q77YSWpWBpPpo+bCxsA2r9tNEpLIq7qszfG7SiDaKn0t/\nB6nTxlxFTQHL8LM5RQ3Hamlt5wKBgQDerRa3rXm0WbxlvRKdSkchgLKmrV2+UjfT\nlY/VMtMzlTB+Tf8aDLdZK7tr0B+ZlqEGduGkXGamnEvGHpDFeKO6KGH7l2c9/OY7\nMR7/fDQjBah/kXhl7Edh1viRG0c188rELGm2eQnBmXg+8PT1AekHEjQ8LVqxqb6K\nQxKmpgsGmwKBgBmkjW3CmJakLFCnY+EdhQmdfwl+jcS4EV1Df3lrHlrpGi8dwVws\nTuHDsodTI1KH5De8xObTWYwQDOc7peAYgl5ZNaC+OF+hcL3TT25kGoqGOCqdxnYO\nSaoafGN33DZxgsAMq8JCohV3p/wYxjRmsbHaw9cMQFXxPp3RW1+XzUmhAoGAbTyQ\nRm8No1HaQDauqQbFOkQ+X9HwiOsgg+V89+PFBCsN7QgqOwc98rqnaM5ikh/4wokT\nTGQf32ARNBHOh3EVML+awaeWeCxWbXc9c6vkj8G41Uvxul5c7jxdGCI/ntIICJCZ\nE3DxPk4hVQ8zu/XB8TwW7+Z39WwGEyGwRpxyED0CgYAsDHfFAkLj+cEJ5pvhDrj5\nmF/Y/HyKhP35YuV3AlsPCHWVYGixbM47O+j78CNYUWTQDphfbPPL0K057FFz+ZK4\nBEJ4RBEZQI/O1W6HXKeQJj8n19c7AxVs1iSUPDB1X1j71OWfH6jiZnMy7JtsDi5n\nIQLQkHDmYD0L2W1xNRTsOw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "practicum-editor@practicum6.iam.gserviceaccount.com",
+  "client_id": "103381402946420981004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/practicum-editor%40practicum6.iam.gserviceaccount.com"
+}
